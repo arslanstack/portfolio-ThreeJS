@@ -2,14 +2,25 @@
 
 ![3D Portfolio](https://designs.arslanstack.com/threejs.png)
 
-##[In this project, i focused on:]
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-  
-##[I also tried to:]
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+## Project Focus
+
+In this project, my primary focus was on leveraging the following technologies:
+
+- **ThreeJS**: A robust 3D graphics library for rendering and animating 3D models.
+- **React Three Fiber**: A widely used library that facilitates the creation of 3D graphics with ThreeJS within React applications.
+- **TailwindCSS**: A popular utility-first CSS styling framework.
+- **Framer Motion**: The leading library for animating React websites, bringing them to life with dynamic animations.
+
+## Key Objectives
+
+I aimed to achieve the following objectives throughout the development process:
+
+- **3D Graphics Handling**: Loaded, created, and customized captivating 3D models and geometries, experimenting with various lighting techniques. Gained insights into the 3D world, understanding camera functionality and object positioning in space.
+
+- **Code Reusability and Scalability**: Implemented best practices, including the use of Higher Order Components (HOCs), to make the codebase more reusable and scalable.
+
+- **Form Functionality**: Integrated a form on the website to enable users to send emails seamlessly.
+
+- **Responsive Design and Performance Optimization**: Ensured responsiveness across all devices and improved site performance using techniques such as Suspense and Preload.
+
+Feel free to explore the project and discover the immersive 3D experiences it offers!
