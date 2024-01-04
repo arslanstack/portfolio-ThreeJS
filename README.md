@@ -1,6 +1,6 @@
 # Three JS Developer Portfolio
 
-![3D Portfolio](https://designs.arslanstack.com/threejs.png)
+![3D Portfolio](https://projects.arslanstack.com/photos/threed/1.png)
 
 ## Project Focus
 
@@ -26,4 +26,6 @@ I aimed to achieve the following objectives throughout the development process:
 Feel free to explore the project and discover the immersive 3D experiences it offers!
 
 
-![3D Portfolio](https://projects.arslanstack.com/photos/port.png)
+![3D Portfolio](https://projects.arslanstack.com/photos/threed/2.png)
+![3D Portfolio](https://projects.arslanstack.com/photos/threed/3.png)
+![3D Portfolio](https://projects.arslanstack.com/photos/threed/4.png)
